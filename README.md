@@ -81,7 +81,7 @@
 
 ## ข้อมูลพื้นฐาน
 - ดึงข้อมูลมาจาก[หน้านี้](https://data.bopp-obec.info/emis/schooldata-view.php?School_ID=1020080005&Area_CODE2=2001) 
-- ข้อมูลที่ได้มาจะอยู่ใน `<year-month>/school_data/general.json` ใช้ key เป็น school id 10 หลัก
+- ข้อมูลที่ได้มาจะอยู่ใน [ไฟล์ general.json](2022-09/school_data/general.json) ใช้ key เป็น school id 10 หลัก
 
 ข้อมูลบนหน้าเว็บ [data.bopp-obec.info/emis/schooldata-view.php?School_ID=1020080005&Area_CODE2=2001](https://data.bopp-obec.info/emis/schooldata-view.php?School_ID=1020080005&Area_CODE2=2001)
 
