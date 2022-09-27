@@ -1,0 +1,58 @@
+[
+  {
+    "name": "อาคารเรียน ลำดับที่ 1 ",
+    "images": [
+      {
+        "image_url": "https://bobec.bopp-obec.info/b01/7200191012124970120201029105049505747918.jpg",
+        "image_path": "out/2022-09/html/school/building/images/1010720019_00.jpg"
+      },
+      {
+        "image_url": "https://bobec.bopp-obec.info/b01/7200191012124970120201029105116173283977.jpg",
+        "image_path": "out/2022-09/html/school/building/images/1010720019_01.jpg"
+      }
+    ],
+    "details": {
+      "แบบ": "004",
+      "จำนวนห้องตามแปลน": "18 ห้อง",
+      "สร้าง": "พ.ศ. 2497",
+      "สภาพปัจจุบัน": "ดี"
+    }
+  },
+  {
+    "name": "อาคารเรียน ลำดับที่ 2 ",
+    "images": [
+      {
+        "image_url": "https://bobec.bopp-obec.info/b01/720019201212527012020102910545160439057.jpg",
+        "image_path": "out/2022-09/html/school/building/images/1010720019_02.jpg"
+      },
+      {
+        "image_url": "https://bobec.bopp-obec.info/b01/7200192012125270120201029105547936353701.jpg",
+        "image_path": "out/2022-09/html/school/building/images/1010720019_03.jpg"
+      }
+    ],
+    "details": {
+      "แบบ": "108 ล,108 ,ล/30,108 หรือ108 ชื่ออื่นๆ",
+      "จำนวนห้องตามแปลน": "15 ห้อง",
+      "สร้าง": "พ.ศ. 2528",
+      "สภาพปัจจุบัน": "ดี"
+    }
+  },
+  {
+    "name": "บ้านพักภารโรง ลำดับที่ 1 ",
+    "images": [
+      {
+        "image_url": "https://bobec.bopp-obec.info/b04/720019104022536042019103108194885311282.jpg",
+        "image_path": "out/2022-09/html/school/building/images/1010720019_04.jpg"
+      },
+      {
+        "image_url": "https://bobec.bopp-obec.info/b04/7200191040225360420191031082108176968547.jpg",
+        "image_path": "out/2022-09/html/school/building/images/1010720019_05.jpg"
+      }
+    ],
+    "details": {
+      "แบบ": "อื่น อื่น",
+      "สร้าง": "พ.ศ. 2538",
+      "สภาพปัจจุบัน": "ดี"
+    }
+  }
+]

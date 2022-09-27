@@ -1,0 +1,168 @@
+[
+  {
+    "name": "อาคารเรียน ลำดับที่ 1 ",
+    "images": [
+      {
+        "image_url": "https://bobec.bopp-obec.info/b01/7200231012125440120191031123054778263921.jpg",
+        "image_path": "out/2022-09/html/school/building/images/1010720023_00.jpg"
+      },
+      {
+        "image_url": "https://bobec.bopp-obec.info/b01/7200231012125440120211017105041686784850.jpg",
+        "image_path": "out/2022-09/html/school/building/images/1010720023_01.jpg"
+      }
+    ],
+    "details": {
+      "แบบ": "อื่นๆ 004,008,030,107,206,210,214,315,415,308",
+      "จำนวนห้องตามแปลน": "7 ห้อง",
+      "สร้าง": "พ.ศ. 2544",
+      "สภาพปัจจุบัน": "ดี"
+    }
+  },
+  {
+    "name": "อาคารเรียน ลำดับที่ 2 ",
+    "images": [
+      {
+        "image_url": "https://bobec.bopp-obec.info/b01/7200232012125260120191031123153507854485.jpg",
+        "image_path": "out/2022-09/html/school/building/images/1010720023_02.jpg"
+      },
+      {
+        "image_url": "https://bobec.bopp-obec.info/b01/7200232012125260120191031123207140195744.jpg",
+        "image_path": "out/2022-09/html/school/building/images/1010720023_03.jpg"
+      }
+    ],
+    "details": {
+      "แบบ": "อื่นๆ 004,008,030,107,206,210,214,315,415,308",
+      "จำนวนห้องตามแปลน": "2 ห้อง",
+      "สร้าง": "พ.ศ. 2526",
+      "สภาพปัจจุบัน": "ดี"
+    }
+  },
+  {
+    "name": "อาคารเรียน ลำดับที่ 3 ",
+    "images": [
+      {
+        "image_url": "https://bobec.bopp-obec.info/b01/7200233012125300120191031123231729148777.jpg",
+        "image_path": "out/2022-09/html/school/building/images/1010720023_04.jpg"
+      },
+      {
+        "image_url": "https://bobec.bopp-obec.info/b01/720023301212530012019103112324041221944.jpg",
+        "image_path": "out/2022-09/html/school/building/images/1010720023_05.jpg"
+      }
+    ],
+    "details": {
+      "แบบ": "อื่นๆ 004,008,030,107,206,210,214,315,415,308",
+      "จำนวนห้องตามแปลน": "6 ห้อง",
+      "สร้าง": "พ.ศ. 2530",
+      "สภาพปัจจุบัน": "ดี"
+    }
+  },
+  {
+    "name": "อาคารเรียน ลำดับที่ 4 ",
+    "images": [
+      {
+        "image_url": "https://bobec.bopp-obec.info/b01/7200234012125260120191031123308446126138.jpg",
+        "image_path": "out/2022-09/html/school/building/images/1010720023_06.jpg"
+      },
+      {
+        "image_url": "https://bobec.bopp-obec.info/b01/7200234012125260120191031123317220664636.jpg",
+        "image_path": "out/2022-09/html/school/building/images/1010720023_07.jpg"
+      }
+    ],
+    "details": {
+      "แบบ": "อื่นๆ 004,008,030,107,206,210,214,315,415,308",
+      "จำนวนห้องตามแปลน": "75 ห้อง",
+      "สร้าง": "พ.ศ. 2526",
+      "สภาพปัจจุบัน": "ดี"
+    }
+  },
+  {
+    "name": "อาคารอเนกประสงค์/โรงอาหาร/โรงฝึกงาน/หอประชุม ลำดับที่ 1 ",
+    "images": [
+      {
+        "image_url": "https://bobec.bopp-obec.info/b02/7200231021125260220191031125121671972895.jpg",
+        "image_path": "out/2022-09/html/school/building/images/1010720023_08.jpg"
+      },
+      {
+        "image_url": "https://bobec.bopp-obec.info/b02/7200231021125260220191031125027269380871.jpg",
+        "image_path": "out/2022-09/html/school/building/images/1010720023_09.jpg"
+      }
+    ],
+    "details": {
+      "แบบ": "อื่น อื่น(สร้างเอง)",
+      "สร้าง": "พ.ศ. 2526",
+      "สภาพปัจจุบัน": "ดี"
+    }
+  },
+  {
+    "name": "อาคารอเนกประสงค์/โรงอาหาร/โรงฝึกงาน/หอประชุม ลำดับที่ 2 ",
+    "images": [
+      {
+        "image_url": "https://bobec.bopp-obec.info/b02/7200232021125350220191031123620375431008.jpg",
+        "image_path": "out/2022-09/html/school/building/images/1010720023_10.jpg"
+      },
+      {
+        "image_url": "https://bobec.bopp-obec.info/b02/7200232021125350220191031123637418285573.jpg",
+        "image_path": "out/2022-09/html/school/building/images/1010720023_11.jpg"
+      }
+    ],
+    "details": {
+      "แบบ": "อื่น อื่น(สร้างเอง)",
+      "สร้าง": "พ.ศ. 2535",
+      "สภาพปัจจุบัน": "ดี"
+    }
+  },
+  {
+    "name": "อาคารอเนกประสงค์/โรงอาหาร/โรงฝึกงาน/หอประชุม ลำดับที่ 3 ",
+    "images": [
+      {
+        "image_url": "https://bobec.bopp-obec.info/b02/7200233021125360220191031123657840693548.jpg",
+        "image_path": "out/2022-09/html/school/building/images/1010720023_12.jpg"
+      },
+      {
+        "image_url": "https://bobec.bopp-obec.info/b02/720023302112536022021101710484687530486.jpg",
+        "image_path": "out/2022-09/html/school/building/images/1010720023_13.jpg"
+      }
+    ],
+    "details": {
+      "แบบ": "อื่น อื่น(สร้างเอง)",
+      "สร้าง": "พ.ศ. 2536",
+      "สภาพปัจจุบัน": "ดี"
+    }
+  },
+  {
+    "name": "อาคารอเนกประสงค์/โรงอาหาร/โรงฝึกงาน/หอประชุม ลำดับที่ 4 ",
+    "images": [
+      {
+        "image_url": "https://bobec.bopp-obec.info/b02/7200234020725470220191031123729209023071.jpg",
+        "image_path": "out/2022-09/html/school/building/images/1010720023_14.jpg"
+      },
+      {
+        "image_url": "https://bobec.bopp-obec.info/b02/7200234020725470220191031123737231640384.jpg",
+        "image_path": "out/2022-09/html/school/building/images/1010720023_15.jpg"
+      }
+    ],
+    "details": {
+      "แบบ": "แบบพิเศษ(3ชั้น)",
+      "สร้าง": "พ.ศ. 2547",
+      "สภาพปัจจุบัน": "ดี"
+    }
+  },
+  {
+    "name": "สนามกีฬา ลำดับที่ 1 ",
+    "images": [
+      {
+        "image_url": "https://bobec.bopp-obec.info/b15/7200231150925281520191031124944156049851.jpg",
+        "image_path": "out/2022-09/html/school/building/images/1010720023_16.jpg"
+      },
+      {
+        "image_url": "https://bobec.bopp-obec.info/b15/7200231150925281520191031124957835049724.jpg",
+        "image_path": "out/2022-09/html/school/building/images/1010720023_17.jpg"
+      }
+    ],
+    "details": {
+      "แบบ": "โรงยิม",
+      "สร้าง": "พ.ศ. 2528",
+      "สภาพปัจจุบัน": "ดี"
+    }
+  }
+]

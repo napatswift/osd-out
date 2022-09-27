@@ -1,0 +1,94 @@
+[
+  {
+    "name": "อาคารเรียน ลำดับที่ 1 ",
+    "images": [
+      {
+        "image_url": "https://bobec.bopp-obec.info/b01/7200071012125160120191031111102588531440.jpg",
+        "image_path": "out/2022-09/html/school/building/images/1010720007_00.jpg"
+      },
+      {
+        "image_url": "https://bobec.bopp-obec.info/b01/7200071012125160120211022154735705315430.jpg",
+        "image_path": "out/2022-09/html/school/building/images/1010720007_01.jpg"
+      }
+    ],
+    "details": {
+      "แบบ": "อื่นๆ 004,008,030,107,206,210,214,315,415,308",
+      "จำนวนห้องตามแปลน": "24 ห้อง",
+      "สร้าง": "พ.ศ. 2516",
+      "สภาพปัจจุบัน": "พอใช้"
+    }
+  },
+  {
+    "name": "อาคารเรียน ลำดับที่ 2 ",
+    "images": [
+      {
+        "image_url": "https://bobec.bopp-obec.info/b01/7200072012125290120211022155433931551135.jpg",
+        "image_path": "out/2022-09/html/school/building/images/1010720007_02.jpg"
+      },
+      {
+        "image_url": "https://bobec.bopp-obec.info/b01/720007201212529012021102215545476055161.jpg",
+        "image_path": "out/2022-09/html/school/building/images/1010720007_03.jpg"
+      }
+    ],
+    "details": {
+      "แบบ": "อื่นๆ 004,008,030,107,206,210,214,315,415,308",
+      "จำนวนห้องตามแปลน": "24 ห้อง",
+      "สร้าง": "พ.ศ. 2529",
+      "สภาพปัจจุบัน": "พอใช้"
+    }
+  },
+  {
+    "name": "อาคารอเนกประสงค์/โรงอาหาร/โรงฝึกงาน/หอประชุม ลำดับที่ 1 ",
+    "images": [
+      {
+        "image_url": "https://bobec.bopp-obec.info/b02/7200071021125380220191031111235484162383.jpg",
+        "image_path": "out/2022-09/html/school/building/images/1010720007_04.jpg"
+      },
+      {
+        "image_url": "https://bobec.bopp-obec.info/b02/7200071021125380220211022155643440610770.jpg",
+        "image_path": "out/2022-09/html/school/building/images/1010720007_05.jpg"
+      }
+    ],
+    "details": {
+      "แบบ": "อื่น อื่น(สร้างเอง)",
+      "สร้าง": "พ.ศ. 2538",
+      "สภาพปัจจุบัน": "พอใช้"
+    }
+  },
+  {
+    "name": "สนามเด็กเล่น ลำดับที่ 1 ",
+    "images": [
+      {
+        "image_url": "https://bobec.bopp-obec.info/b08/100100021080125622020820211022153812673501577.jpg",
+        "image_path": "out/2022-09/html/school/building/images/1010720007_06.jpg"
+      },
+      {
+        "image_url": "https://bobec.bopp-obec.info/b08/100100021080125622020820211022155809633620226.jpg",
+        "image_path": "out/2022-09/html/school/building/images/1010720007_07.jpg"
+      }
+    ],
+    "details": {
+      "แบบ": "สนามเด็กเล่น",
+      "สร้าง": "พ.ศ. 2562",
+      "สภาพปัจจุบัน": "ดี"
+    }
+  },
+  {
+    "name": "ถังเก็บน้ำ ลำดับที่ 1 ",
+    "images": [
+      {
+        "image_url": "https://bobec.bopp-obec.info/b16/7200071160525501620211022153532916079039.jpg",
+        "image_path": "out/2022-09/html/school/building/images/1010720007_08.jpg"
+      },
+      {
+        "image_url": "https://bobec.bopp-obec.info/b16/7200071160525501620211022153543454753138.jpg",
+        "image_path": "out/2022-09/html/school/building/images/1010720007_09.jpg"
+      }
+    ],
+    "details": {
+      "แบบ": "แท้งค์น้ำ",
+      "สร้าง": "พ.ศ. 2550",
+      "สภาพปัจจุบัน": "พอใช้"
+    }
+  }
+]
